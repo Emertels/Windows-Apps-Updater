@@ -2,6 +2,8 @@
 
 ## 1.0.0 — 2026-10-09
 
+- Reorganiza a documentação: README principal em PT-BR, versão independente em inglês e instruções específicas das opções/etapas deste projeto.
+
 - Corrige as instruções de execução para apontar diretamente para o arquivo correto do projeto.
 
 - Corrige a exibição de acentos e da barra de progresso no CMD configurando a codificação de saída do console, sem usar CHCP.
