@@ -32,3 +32,5 @@
 - Ajusta a cor do console para o verde escuro original, reduzindo o efeito visual de texto em negrito.
 
 - Define peso normal (400) para a fonte do console clássico e restaura a paleta verde escura.
+
+- Configura entrada e saída UTF-8 pelas APIs do console, preservando acentos sem usar CHCP; mantém o peso normal da fonte e o verde escuro.

@@ -32,3 +32,5 @@
 - Restores the original dark-green console color to avoid the bold-looking text appearance.
 
 - Sets normal (400) font weight in classic CMD and restores the dark-green palette.
+
+- Sets console input and output to UTF-8 through the console APIs, preserving accents without CHCP; keeps normal font weight and dark green.
