@@ -1,6 +1,5 @@
 @echo off
 setlocal EnableExtensions DisableDelayedExpansion
-color 07
 title Windows Software Updater v1.0.0
 rem Configura UTF-8 pela API do console para preservar acentos sem executar CHCP.
 powershell.exe -NoLogo -NoProfile -Command "[Console]::OutputEncoding=[Text.Encoding]::UTF8; [Console]::InputEncoding=[Text.Encoding]::UTF8"
@@ -17,6 +16,7 @@ if /i "%UI_CULTURE:~0,2%"=="ko" set "LANG=ko"
 if /i "%UI_CULTURE:~0,5%"=="zh-CN" set "LANG=zh-CN"
 if /i "%UI_CULTURE:~0,2%"=="ru" set "LANG=ru"
 call :SetLanguage
+color 02
 set "SESSION_TIME=%date% %time:~0,8%"
 
 cls

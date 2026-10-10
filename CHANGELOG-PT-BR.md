@@ -28,3 +28,5 @@
 - Padroniza a seção do autor, projetos e comunidades oficiais conforme o repositório de referência Antigravity.
 
 - Corrige a embalagem da versão Batch com quebras CRLF, evitando que o CMD encerre ou interprete o script incorretamente.
+
+- Ajusta a cor do console para o verde escuro original, reduzindo o efeito visual de texto em negrito.

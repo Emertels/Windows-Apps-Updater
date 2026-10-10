@@ -28,3 +28,5 @@
 - Aligns the author, projects, and official communities section with the Antigravity reference repository.
 
 - Packages the Batch release with CRLF line endings so CMD does not misread or close the script.
+
+- Restores the original dark-green console color to avoid the bold-looking text appearance.
