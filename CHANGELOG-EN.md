@@ -30,3 +30,5 @@
 - Packages the Batch release with CRLF line endings so CMD does not misread or close the script.
 
 - Restores the original dark-green console color to avoid the bold-looking text appearance.
+
+- Sets normal (400) font weight in classic CMD and restores the dark-green palette.

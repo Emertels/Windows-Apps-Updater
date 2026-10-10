@@ -30,3 +30,5 @@
 - Corrige a embalagem da versão Batch com quebras CRLF, evitando que o CMD encerre ou interprete o script incorretamente.
 
 - Ajusta a cor do console para o verde escuro original, reduzindo o efeito visual de texto em negrito.
+
+- Define peso normal (400) para a fonte do console clássico e restaura a paleta verde escura.
