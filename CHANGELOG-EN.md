@@ -2,6 +2,8 @@
 
 ## 1.0.0 — 2026-10-09
 
+- Sets the CMD palette to `07` for light text on black without high-intensity output.
+
 - Removes the global CMD color override to keep the default console style without emphasized text.
 
 - Organizes the docs into a PT-BR primary README and a separate English version, with guidance tailored to this project’s options and workflow.

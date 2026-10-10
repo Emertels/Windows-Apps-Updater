@@ -2,6 +2,8 @@
 
 ## 1.0.0 — 2026-10-09
 
+- Fixa a paleta do CMD em `07`, com texto claro e fundo preto sem intensidade alta.
+
 - Remove a alteração global de cor do CMD para manter o estilo padrão sem texto destacado.
 
 - Reorganiza a documentação: README principal em PT-BR, versão independente em inglês e instruções específicas das opções/etapas deste projeto.
