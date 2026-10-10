@@ -26,3 +26,5 @@
 - Usage, dependency, and required-file documentation was reviewed to match current project behavior.
 
 - Aligns the author, projects, and official communities section with the Antigravity reference repository.
+
+- Packages the Batch release with CRLF line endings so CMD does not misread or close the script.
